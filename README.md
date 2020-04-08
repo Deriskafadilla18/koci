@@ -2,7 +2,7 @@
 
 Laporan Input Record Navicat
 
-1.  1194010 - Deriska Fadilla Musdalifa
+Anggota 1.  1194010 - Deriska Fadilla Musdalifa
 
 1. Input record tabel notfound_message (100 record)
 2. Input record tabel notfound_message (34 record)
@@ -25,8 +25,7 @@ Untuk record reply memiliki rincian sebagai berikut:
 4. Input module joke (10 record)
 5. Input module panduan (10 record)
 
-
-2.   1194034 - Salsa Thalia Putri Nur Rochmani
+Anggota 2.   1194034 - Salsa Thalia Putri Nur Rochmani
 
 1. Input record tabel notfound_message (100 record)
 2. Input record tabel notfound_message (34 record)
